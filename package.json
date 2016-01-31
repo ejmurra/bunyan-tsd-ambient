@@ -1,0 +1,15 @@
+{
+  "name": "retyped-bunyan-tsd-ambient",
+  "description": "TypeScript typings for bunyan",
+  "version": "0.0.0-0",
+  "licence": "MIT",
+  "repository": "https://github.com/retyped/bunyan-tsd-ambient",
+  "typescript": {
+    "definition": "bunyan.d.ts"
+  },
+  "keywords": [
+    "retyped",
+    "tsd",
+    "tsd-ambient"
+  ]
+}
